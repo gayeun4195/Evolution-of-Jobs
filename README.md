@@ -18,4 +18,4 @@ Project conducted in 2022 summer.
 
 ## Contacts
 
-Please mail to noegayeun@kaist.ac.kr.
+Please email to noegayeun@kaist.ac.kr.
